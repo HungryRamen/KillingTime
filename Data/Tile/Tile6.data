@@ -1,0 +1,15 @@
+GameDataType	Normal
+ID				Tile6
+RenderID		Tile6
+
+ColliderData
+
+Collider0
+ColliderModel	Square
+ColliderType	Defence
+PosX			0
+PosY			0
+Width           50
+Height          50
+
+end

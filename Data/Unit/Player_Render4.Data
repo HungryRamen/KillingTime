@@ -1,0 +1,9 @@
+RenderDataType	AniRender
+ID 				PlayerDie
+AnchorX			0.5
+AnchorY			0.5
+ImgCount        5
+TrackSpeed      0.08
+Loop            0	
+State           3
+ImgFile			Texture/PlayerDie/

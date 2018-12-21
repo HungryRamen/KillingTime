@@ -1,0 +1,5 @@
+RenderDataType	ImgRender
+ID 				Player
+AnchorX			0.5
+AnchorY			0.5
+ImgFile			Texture/Player.png

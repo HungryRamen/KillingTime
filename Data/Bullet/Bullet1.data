@@ -1,0 +1,21 @@
+GameDataType	Bullet
+ID				Bullet1
+RenderID		Bullet1
+Speed			800
+LifeTime		10
+Damage			10
+
+RenderState
+
+State0          BulletEffect
+
+ColliderData
+
+Collider0
+ColliderModel	Circle
+ColliderType	Attack
+PosX			0
+PosY			0
+Radius			4
+
+end

@@ -1,0 +1,5 @@
+RenderDataType	ImgRender
+ID 				Bullet1
+AnchorX			0.5
+AnchorY			0.5
+ImgFile			Texture/Bullet1.png

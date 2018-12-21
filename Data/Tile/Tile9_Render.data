@@ -1,0 +1,9 @@
+RenderDataType	CutImgRender
+ID 				Tile9
+AnchorX			0.0
+AnchorY			0.0
+Left            400
+Top             0
+Right           450
+Bottom          50
+ImgFile			Texture/Tile.png

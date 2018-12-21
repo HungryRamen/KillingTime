@@ -1,0 +1,9 @@
+RenderDataType	AniRender
+ID 				PlayerATK
+AnchorX			0.5
+AnchorY			0.5
+ImgCount        3
+TrackSpeed      0.06
+Loop            1
+State           2
+ImgFile			Texture/PlayerATK/

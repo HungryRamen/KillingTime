@@ -1,0 +1,9 @@
+RenderDataType	AniRender
+ID 				PlayerWalk
+AnchorX			0.5
+AnchorY			0.5
+ImgCount        8
+TrackSpeed      0.1
+Loop            1
+State           1
+ImgFile			Texture/PlayerWalk/

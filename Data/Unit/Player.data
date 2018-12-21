@@ -1,0 +1,23 @@
+GameDataType	Unit
+ID				Player
+RenderID		Player
+Camera			1
+Speed			300
+HP				100
+
+RenderState
+
+State0			PlayerWalk
+State1		    PlayerATK
+State2          PlayerDie
+
+ColliderData
+
+Collider0
+ColliderModel	Circle
+ColliderType	Defence
+PosX			0
+PosY			0
+Radius			28
+
+end
